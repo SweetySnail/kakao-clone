@@ -1,5 +1,5 @@
 body {
-  height: 235vh;
+  height: 210vh;
 }
 
 .friends-screen__channel-header {
@@ -52,5 +52,5 @@ body {
   align-items: center;
   font-size: 132px;
   animation: hideSplashScreen 0.3s ease-in-out forwards;
-  /* animation-delay: 1s; */
+  animation-delay: 2s;
 }
